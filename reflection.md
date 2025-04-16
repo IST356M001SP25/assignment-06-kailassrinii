@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I struggled to build the multi-step ETL pipeline, especially when my API endpoints weren't connecting despite having code that matched the solutions. Figuring out how to transform complex JSON data into the right format was confusing, particularly for the nested entity extraction step. Despite these challenges, I learned valuable lessons about breaking down data pipelines into manageable pieces with proper caching.
